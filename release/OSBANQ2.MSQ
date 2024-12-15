@@ -1,0 +1,22 @@
+1,1,F,Informations sur votre banque.
+5,2,F,Etablissement:
+23,2,V,M,5
+5,3,F,Guichet:
+23,3,V,M,5
+5,4,F,Num‚ro de compte:
+23,4,V,M,11
+5,5,F,Cl‚:
+23,5,V,M,2
+5,7,F,Nom de la banque:
+23,7,V,C,32
+23,8,V,C,32
+5,9,F,Adresse
+23,9,V,C,32
+23,10,V,C,32
+23,11,V,C,32
+23,12,V,C,5
+30,12,V,C,25
+5,13,F,Pays
+23,13,V,C,2
+5,15,F,Centre (CCP):
+19,15,V,M,20

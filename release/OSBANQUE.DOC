@@ -1,0 +1,75 @@
+Logiciel: OSBANQUE.
+
+Auteur: Patrick Pr‚martin.
+
+Version 1.0 du 25/09/1993.
+
+*****************************************************************************
+
+     Ce logiciel est distribu‚ comme freeware, vous pouvez l'utiliser et le
+copier librement … condition de ne pas le modifier ou l'alt‚rer.
+
+*****************************************************************************
+
+     OSBANQUE est un gestionnaire simplifi‚ de comptes en banque.
+
+     Une fois le programme install‚, vous devez lancer OSBANQUE.EXE, puis
+appuyez sur la touche F6 (pour cr‚er 1 ou plusieurs comptes en banques). Ne
+vous trompez pas dans la saisie de cette information: il n'y a aucune
+possibilit‚ de modifier les informations concernant votre compte en banque.
+
+     La cr‚ation d'un ou plusieurs compte ayant ‚t‚ faite, il vous suffit de
+s‚lectionner le compte sur lequel vous avez des ‚critures … passer. Une
+nouvelle liste (vide lors de la premiŠre utilisation) s'affiche. Vous avez
+alors deux possibilit‚s: cr‚er ou modifier des ‚critures. La cr‚ation se fait
+en appuyant sur F6 (faites ESC pour sortir du mode cr‚ation et retourner … la
+liste). Vous pouvez modifier une ‚criture en la s‚lectionnant.
+
+     Un montant plac‚ en d‚bit sera consid‚r‚ comme ‚tant positif, tandis
+qu'un cr‚dit est n‚gatif. Si vous avez des notions de comptabilit‚ g‚n‚rale,
+r‚f‚rez vous … la gestion du compte 512 (banque) dans le plan comptable
+g‚n‚ral.
+
+*****************************************************************************
+
+     Ecrans de liste:
+          - Utilisez <ESC> pour quitter cet ‚cran et revenir au pr‚c‚dent (ou
+          quitter le programme lorsque vous ˆtes sur la liste des comptes en
+          banques);
+          - Utilisez les flŠches haut et bas afin de d‚placer la barre de
+          s‚lection;
+          - Appuyez sur <PgUp> ou <PgDn> pour changer de page;
+          - La touche <F6> vous permet de cr‚er de nouveaux enregistrements
+          dans la liste (comptes en banques ou ‚critures);
+          - La touche <Entr‚e> permet la s‚lection de la ligne sur laquelle
+          se trouve la barre de s‚lection.
+
+     Ecrans de saisie:
+          - <Esc> vous permet de quitter cet ‚cran sans valider les
+          modifications ou cr‚ations;
+          - <Entr‚e> fera apparaŒtre une demande de confirmation, r‚pondez
+          'O' pour valider la saisie, et 'N' dans le cas contraire.
+          - Les flŠches de d‚placement du curseur permettent de changer de
+          zone de saisie;
+          - <Home> et <End> vous positionnent respectivement sur la premiŠre
+          et la derniŠre zone de l'‚cran;
+          - <Tab> permet de passer … la zone suivante;
+          - <Shift>+<Tab> met le curseur sur la zone pr‚c‚dente;
+          - <Ctrl>+<Entr‚e> efface la fin de la zone en cours de saisie, et
+          fait passer le curseur sur la suivante.
+
+*****************************************************************************
+
+Outils compl‚mentaires … venir:
+     - ‚dition de la liste des ‚critures concernant un compte,
+     - tris des ‚critures selon plusieurs critŠres dans la saisie...
+
+*****************************************************************************
+
+     N'h‚sitez pas … me contacter en cas de problŠme, pour me faire des
+suggestions, critiques et donner vos id‚es afin d'am‚liorer ce logiciel et
+ses successeurs.
+
+(maj du 15/12/2024 : adresse postale de l'epoque retiree du fichier, me contacter depuis https://developpeur-pascal.fr ou https://olfsoftware.fr pour toute question)
+
+*****************************************************************************

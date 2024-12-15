@@ -1,0 +1,34 @@
+1,1,F,Op‚ration bancaire.
+5,3,F,Date de l'op‚ration:
+27,3,V,N,2
+29,3,F,/
+30,3,V,N,2
+32,3,F,/
+33,3,V,N,2
+5,5,F,Type de piŠce:
+20,5,V,M,3
+25,5,F,(CB/CHQ/ESP/TIP/VIR)
+5,6,F,Num‚ro de piŠce:
+22,6,V,N,12
+5,8,F,Objet:
+12,8,V,M,25
+5,10,F,D/C:
+10,10,V,M,1
+12,10,F,Montant:
+21,10,V,N,6
+27,10,F,.
+28,10,V,N,2
+5,12,F,Commentaires:
+19,12,V,M,50
+19,13,V,M,50
+19,14,V,M,50
+5,16,F,Relev‚ de compte du
+25,16,V,N,2
+27,16,F,/
+28,16,V,N,2
+30,16,F,/
+31,16,V,N,2
+34,16,F,num‚ro
+41,16,V,N,6
+65,23,F,ESC-Sortie
+
